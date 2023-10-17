@@ -239,7 +239,7 @@ storage:
       contents:
         inline: |
           {
-              "default-runtime": "runsc-systrap",
+              "default-runtime": "runc",
               "runtimes": {
                   "runsc-kvm": {
                       "path": "/usr/bin/runsc",

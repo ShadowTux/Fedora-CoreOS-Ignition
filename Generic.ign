@@ -127,7 +127,7 @@
         "path": "/etc/docker/daemon.json",
         "contents": {
           "compression": "gzip",
-          "source": "data:;base64,H4sIAAAAAAAC/8xSy2rDMBC8+yuEzl50D/jQ7yg9KLbiBFkPtCuXUvLvRbITqiJKQ02Si8Ga0Wh2Zj8bxhjjgzrIOBGEaOlkFN8xHqLFHvADKUjP24W34sh3bLl5OcUe9GyK4wx5ScekJiIGsT9Zkbmr3HeBJPsSxqT8WoCZAOAnSQcXTJeeaWsMq+jdBd0dHRIvCG/Xv3P70/VlwDs4L7PcxL2eDQNIdyAO2Dmv7PN0UGWUXm+t6RHD/r22LQfWs4FB7eP45H1mjzC5sRNkvLiaF7/Q61BKuVc3r8T9UvrnIlSTWjU3T6tZvufmKwAA//9hTB1H4QUAAA=="
+          "source": "data:;base64,H4sIAAAAAAAC/8xSTWvEIBS851eI5zy8L3jo7yg9uImbXYwf6DOllP3vRZNdapHSpSGbSyBvxnGceZ8NIYTQXp5EHBF8NHjRkh4I9dF0tJ3hZRzogcwHbtPQgZp0Mc6QE3hOIiwGz44XwzJ3kfsukGRf/JCUXwswEwDcKPBkvebpmrbGMBLfrVf8bAPSgvB2/7u2P12Hj4BeuC2c365a0b2aNAFIZyD2gVsnzX46qDJKr4/W9IzH/r22NR+sJg29PMZh531mjzDagTPUjt3Ns1/odSil3MmHV2K7lP65CNWkFs3V02rm77X5CgAA//+49xMB2AUAAA=="
         }
       }
     ],
