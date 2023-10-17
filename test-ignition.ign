@@ -5,6 +5,10 @@
   "passwd": {
     "users": [
       {
+        "groups": [
+          "wheel",
+          "sudo"
+        ],
         "name": "shadowtux",
         "sshAuthorizedKeys": [
           "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGFvoFp2f5Qc4oj4RFwgD3TwNgNcrqANnGPJA/5oOOlr"
